@@ -4,6 +4,7 @@
  <title>welcome to php form</title>
 </head>
 <body>
+  <h1>Good Morning Priyanak<h1>
  <center>
 <form action="action.php" method="post">
  <p>Your name: <input type="text" name="name" /></p>
