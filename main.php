@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<title>Welcome Priyanka</title>
+<title>Welcome </title>
 </head>
 <style>
  body{ background-image: url(http://www.brandvid.com/assets/BrandVid-home-1920-945.jpg);
