@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-<title>Welcome Priyanka</title>
+<title>Welcome XYZ</title>
 </head>
 <style>
  body{ background-image: url(https://image.freepik.com/free-photo/blue-surface-with-creases_1160-191.jpg);
