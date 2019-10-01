@@ -74,7 +74,7 @@ div {
     display: none;
     border:1px solid #000;
     height:40px;
-    width:400px;
+    width:450px;
     margin-left:10px;
 }
 
