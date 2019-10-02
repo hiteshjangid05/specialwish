@@ -64,7 +64,7 @@ $time = date('H:i:s',strtotime("11:59AM"));
 if($time < date('H:i:s') && $time_now > date('H:i:s')){
      echo "<h1>GOOD AFTERNOON</h1>";
 }
-elseif( $time > date('H:i:s')){
+elseif( $time > date('H:I:S
 echo"<h1>GOOD MORNING</h1>";}
 else {
   echo"<h1>GOOD EVENING</h1>";
