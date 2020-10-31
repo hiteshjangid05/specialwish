@@ -57,7 +57,7 @@ a:hover, a:active {
 <center>
 <?php
 $new = $_POST['mypass'];
-$pass = "8989898989";
+$pass = "********";//password should not visible in public repository for it leads to data and security breach
 $hash = password_hash($new, PASSWORD_DEFAULT);
 
 if (password_verify($pass, $hash))
