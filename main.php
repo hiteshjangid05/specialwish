@@ -5,7 +5,7 @@
 </head>
 <style>
  body{ background-image: url(http://www.brandvid.com/assets/BrandVid-home-1920-945.jpg);
-      color: green;
+      color: black;
       font-style: bold;
       font-size:50px
       }
